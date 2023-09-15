@@ -1,0 +1,19 @@
+# Project information
+site_name: LemmyHuang's Home
+site_url: https://lemmyhuang.github.io
+site_author: LemmyHuang
+
+# Repository
+repo_name: lemmyhuang.github.io
+repo_url: https://github.com/LemmyHuang/lemmyhuang.github.io
+edit_uri: https://github.com/LemmyHuang/lemmyhuang.github.io/tree/master/docs
+
+# Copyright
+copyright: Copyright &copy; 2023 LemmyHuang
+
+# Pages
+nav:
+- Home: index.md
+
+theme:
+  name: mkdocs
