@@ -16,4 +16,4 @@ nav:
 - Home: index.md
 
 theme:
-  name: mkdocs
+  name: readthedocs
